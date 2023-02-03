@@ -13,6 +13,10 @@
   align-items: center;
 }
 
+.next {
+  right: 0;
+}
+
 .product-information .price {
   margin: 20px 0px;
   color: #c9aa6d;

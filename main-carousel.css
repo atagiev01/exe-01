@@ -92,9 +92,6 @@
     .item{
         width: calc(33.3vw - 20px);
     }
-    .direction{
-        display: none;
-    }
     .heart {
         border-radius: 30px;
         width: 40px;
@@ -115,9 +112,7 @@
     .item{
         width: calc(50vw - 20px);
     }
-    .direction{
-        display: none;
-    }
+  
   
 }
   
